@@ -1,0 +1,2 @@
+# detect_num_of_people
+使用Mask_RCNN来对公交车中的人数和异常状况进行检测
