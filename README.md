@@ -8,7 +8,7 @@
 
 1. 根据./requirements.txt安装所需的环境
 
-2. 在[release](<https://github.com/sunnyswag/detect_num_of_people/releases>)中下载权重文件和数据集至本地
+2. 在[release](<https://github.com/sunnyswag/detect_num_of_people/releases>)中下载权重文件和数据集至本地 (国内下载[链接](https://pan.baidu.com/s/18V_lS84KWraayKSXD2nbXQ), 提取码：wubi)
 3. 使用./people/people.py进行预测或训练
 
 ## One more thing
